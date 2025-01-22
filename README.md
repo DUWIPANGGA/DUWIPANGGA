@@ -1,3 +1,4 @@
+
 # Hello, I'm **Dimas Arya Duwipangga** 👋
 
 I'm a **Full Stack Developer** and **IoT Engineer** with a passion for crafting innovative, user-centric digital solutions and seamlessly bridging technology with real-world applications.
@@ -51,6 +52,7 @@ I'm a **Full Stack Developer** and **IoT Engineer** with a passion for crafting 
 
 - **LinkedIn**: [Dimas Arya Duwipangga](https://www.linkedin.com/in/dimas-arya-duwipangga/)
 - **Twitter**: [@duwipangga](https://twitter.com/duwipangga)
+- **Link tree**: [https://linktr.ee/duwipangga]
 - **Portfolio**: [your-website.com](https://your-website.com) *(replace with your actual portfolio link)*
 
 ---
