@@ -40,9 +40,9 @@ I'm a **Full Stack Developer** and **IoT Engineer** with a passion for crafting 
 
 ## 📊 GitHub Stats
 
-### My GitHub Stats
+### Top Language
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=duwipangga&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duwipangga&layout=compact&theme=radical)
 
 ### My Most Starred Repositories
 
