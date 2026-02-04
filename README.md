@@ -3,14 +3,14 @@
 
 I'm a **Full Stack Developer** and **IoT Engineer** with a passion for crafting innovative, user-centric digital solutions and seamlessly bridging technology with real-world applications.
 
-## 🌐 About Me
+## About Me
 
-- 💻 **Full Stack Developer** and **IoT Engineer**.
-- 🌱 Currently exploring **Web Development**, **IoT Solutions**, and **Mobile App Development**.
-- ⚙️ I specialize in **Microcontroller Programming**, **Embedded Systems**, and **Cross-platform Mobile App Development** (e.g., Flutter).
-- 🎯 Focused on building scalable, reliable, and efficient digital solutions.
+- **Full Stack Developer** and **IoT Engineer**.
+- Currently exploring **Web Development**, **IoT Solutions**, and **Mobile App Development**.
+- I specialize in **Microcontroller Programming**, **Embedded Systems**, and **Cross-platform Mobile App Development** (e.g., Flutter).
+- Focused on building scalable, reliable, and efficient digital solutions.
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 - **Languages**: Python, JavaScript, C, Dart, HTML/CSS
 - **Frameworks & Libraries**: React, Node.js, Express, Flutter, Laravel
@@ -19,7 +19,7 @@ I'm a **Full Stack Developer** and **IoT Engineer** with a passion for crafting 
 - **Version Control**: Git, GitHub
 - **Tools**: Visual Studio Code, Docker, Postman, Figma
 
-## 🚀 Experience
+## Experience
 
 ### **Microcontroller Assembly & Programming Intern**  
 **CV. Mandatera Tech** | 2023  
@@ -38,7 +38,7 @@ I'm a **Full Stack Developer** and **IoT Engineer** with a passion for crafting 
 - Specialized in creating responsive and user-friendly websites, developing IoT solutions with microcontroller integration, and building cross-platform mobile applications using Flutter.
 - Successfully collaborated with clients to deliver tailored solutions that meet specific project requirements.
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ### My GitHub Stats
 ![Duwipangga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duwipangga&show_icons=true&theme=radical)
@@ -47,7 +47,7 @@ I'm a **Full Stack Developer** and **IoT Engineer** with a passion for crafting 
 ### My Most Starred Repositories
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duwipangga&layout=compact&theme=radical)
 
-## 📣 Connect with Me
+## Connect with Me
 
 - **LinkedIn**: [Dimas Arya Duwipangga](https://www.linkedin.com/in/dimas-arya-duwipangga/)
 - **Twitter**: [@duwipangga](https://twitter.com/duwipangga)
