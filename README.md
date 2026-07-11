@@ -1,62 +1,233 @@
+<div align="center">
 
-# Hello, I'm **Dimas Arya Duwipangga** 👋
+# Hi there, I'm Dimas Arya Duwipangga 👋
 
-I'm a **Full Stack Developer** and **IoT Engineer** with a passion for crafting innovative, user-centric digital solutions and seamlessly bridging technology with real-world applications.
+### Full Stack Developer • Backend Engineer • IoT Engineer
 
-## About Me
+Building scalable web applications, intelligent IoT systems, and AI-powered solutions.
 
-- **Full Stack Developer** and **IoT Engineer**.
-- Currently exploring **Web Development**, **IoT Solutions**, and **Mobile App Development**.
-- I specialize in **Microcontroller Programming**, **Embedded Systems**, and **Cross-platform Mobile App Development** (e.g., Flutter).
-- Focused on building scalable, reliable, and efficient digital solutions.
+<p>
+    <a href="https://github.com/duwipangga">
+        <img src="https://komarev.com/ghpvc/?username=duwipangga&label=Profile%20Views&color=0e75b6&style=flat" />
+    </a>
+    <a href="https://github.com/duwipangga?tab=followers">
+        <img src="https://img.shields.io/github/followers/duwipangga?label=Followers&style=social"/>
+    </a>
+</p>
 
-## Technologies & Tools
-
-- **Languages**: Python, JavaScript, C, Dart, HTML/CSS
-- **Frameworks & Libraries**: React, Node.js, Express, Flutter, Laravel
-- **IoT & Embedded Systems**: Arduino, Raspberry Pi, ESP32, Microcontroller Programming
-- **Databases**: MySQL, MongoDB
-- **Version Control**: Git, GitHub
-- **Tools**: Visual Studio Code, Docker, Postman, Figma
-
-## Experience
-
-### **Microcontroller Assembly & Programming Intern**  
-**CV. Mandatera Tech** | 2023  
-- Completed a vocational internship as part of the R&D team, focusing on assembling and programming microcontroller-based devices.
-- Responsibilities included circuit assembly, hardware troubleshooting, and firmware development for various IoT and automation projects.
-- Gained hands-on experience in integrating sensors, designing PCB layouts, and optimizing device performance.
-
-### **R&D Staff**  
-**CV. Mandatera Tech** | 2023-2024  
-- Contributed to the development of microcontroller-based devices and IoT solutions as part of the R&D team.
-- Engaged in designing, prototyping, and implementing hardware and software for various IoT projects, including smart devices and automation systems.
-
-### **Website, IoT & Mobile Development (Freelance)**  
-**Freelance** | 2024-Present  
-- Provided freelance services in web development, IoT, and mobile application development.
-- Specialized in creating responsive and user-friendly websites, developing IoT solutions with microcontroller integration, and building cross-platform mobile applications using Flutter.
-- Successfully collaborated with clients to deliver tailored solutions that meet specific project requirements.
-
-## GitHub Stats
-
-### My GitHub Stats
-![Duwipangga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=duwipangga&show_icons=true&theme=radical)
-
-
-### My Most Starred Repositories
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duwipangga&layout=compact&theme=radical)
-
-## Connect with Me
-
-- **LinkedIn**: [Dimas Arya Duwipangga](https://www.linkedin.com/in/dimas-arya-duwipangga/)
-- **Twitter**: [@duwipangga](https://twitter.com/duwipangga)
-- **Link tree**: [https://linktr.ee/duwipangga]
-- **Portfolio**: [your-website.com](https://your-website.com) *(replace with your actual portfolio link)*
+</div>
 
 ---
 
-<!---
-DUWIPANGGA/DUWIPANGGA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 🚀 About Me
+
+💻 Full Stack Developer with a strong focus on **Backend Development** and **System Architecture**.
+
+🌐 Experienced in building:
+
+- Web Applications
+- RESTful APIs
+- AI-powered Applications
+- IoT Systems
+- Mobile Applications
+
+Currently exploring:
+
+- 🤖 Artificial Intelligence
+- ☁️ Cloud Deployment
+- 🐳 Docker & DevOps
+- 🔥 High Performance Backend
+- 🛰️ Embedded Systems
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,php,js,ts,dart,go,c,cpp,html,css"/>
+</p>
+
+### Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=laravel,react,nextjs,nodejs,express,flutter"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+</p>
+
+### Cloud & DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman"/>
+</p>
+
+### IoT
+
+- ESP32
+- Arduino
+- STM32
+- Raspberry Pi
+- MQTT
+- Embedded C
+- Sensor Integration
+
+---
+
+# 💼 Experience
+
+## Website, AI, IoT & Mobile Developer
+
+**Freelance**
+**2024 — Present**
+
+- Develop modern web applications
+- Build REST APIs
+- Develop Flutter applications
+- Design IoT Systems
+- Deploy applications to VPS
+- Build AI-powered solutions
+
+---
+
+## Backend Developer Intern
+
+**PT. Inotal Sistema Internasional**
+**2024 — 2025**
+
+- Laravel Backend Development
+- REST API Development
+- Database Design
+- Authentication & Authorization
+- API Integration
+
+---
+
+## R&D Staff
+
+**CV. Mandatera Tech**
+**2023 — 2024**
+
+- Embedded Programming
+- PCB Assembly
+- Firmware Development
+- IoT Device Prototyping
+
+---
+
+## Microcontroller Assembly & Programming Intern
+
+**CV. Mandatera Tech**
+**2023**
+
+- Hardware Assembly
+- Circuit Troubleshooting
+- Sensor Integration
+- Firmware Testing
+
+---
+
+# 🚀 Featured Projects
+
+### 📰 FaktAIn
+
+AI-powered Fact Checking Platform
+
+- Laravel
+- Python
+- RAG
+- BERT
+- FAISS
+- Whisper
+- LiveKit
+
+---
+
+### 🧠 Sejenak
+
+Mental Health Platform
+
+- Flutter
+- Laravel
+- MySQL
+- AI Chatbot
+
+---
+
+### ⚡ IoT Energy Monitoring
+
+Smart Energy Monitoring System
+
+- ESP32
+- MQTT
+- PZEM004T
+- DHT22
+- Regression Analysis
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=duwipangga&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duwipangga&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=duwipangga&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 📊 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=duwipangga&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=duwipangga&theme=tokyonight&no-frame=true&row=1&column=7"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/dimas-arya-duwipangga/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/duwipangga">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://linktr.ee/duwipangga">
+<img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 💡 Quote
+
+*"Building technology that solves real-world problems."*
+
+</div>
