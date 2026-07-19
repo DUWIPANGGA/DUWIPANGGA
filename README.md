@@ -95,19 +95,6 @@ Currently exploring:
 
 ---
 
-## Backend Developer Intern
-
-**PT. Inotal Sistema Internasional**
-**2024 — 2025**
-
-- Laravel Backend Development
-- REST API Development
-- Database Design
-- Authentication & Authorization
-- API Integration
-
----
-
 ## R&D Staff
 
 **CV. Mandatera Tech**
